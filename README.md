@@ -78,13 +78,6 @@ This project supports the poster submission to CARE Conference 2025, IIT Guwahat
 README.md
 
 ---
-## Installation
-
-```bash
-conda env create -f environment.yml
-conda activate antiviral-ai
----
-
 ## Molecules Evaluated
 
 A. FDA-approved / clinically used Molecule Type Notes Remdesivir Small-molecule antiviral Nucleotide analogue Sotrovimab Monoclonal antibody RBD-targeting antibody B. RDKit-Generated Novel Analogs (10 total)
@@ -174,3 +167,11 @@ Protein Data Bank (PDB ID: 7WBP); RDKit (Landrum, 2013); AutoDock Vina (Trott & 
 
 ## Acknowledgement
 Diposree Pramanick, Sister; Pradip Kumar Pramanick, Father; Debika Pramanick, Mother; Attitude, Atkins, Garfield, Atlantis, Arthur, Thor, Loki, Hela, Harry, Hermione, Ronald, Alexander, Atlas And all other cats and Gyangchu, Shantilaal, Kantilaal, Kanjilaal, Maganlaal, Lul, Mocha, Espresso, Butter and all other dogs and every other creature who motivate me doing this project, thank you all :)
+
+---
+## Installation
+
+```bash
+conda env create -f environment.yml
+conda activate antiviral-ai
+---
